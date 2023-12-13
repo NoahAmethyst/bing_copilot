@@ -35,4 +35,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            registry.cn-hangzhou.aliyuncs.com/lexmargin/bing_copilot:latest
+            registry.cn-hangzhou.aliyuncs.com/lexmargin/bing-copilot:latest
